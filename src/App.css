@@ -1,0 +1,69 @@
+/* 3-misol */
+.color-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.color-box {
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+
+/* 4-misol */
+.weekdays {
+  list-style-type: none;
+  padding: 0;
+}
+
+.weekdays li {
+  margin-bottom: 5px;
+}
+
+/* 5-misol  */
+.greeting-card {
+  border: 2px solid #ccc;
+  background-color: #f0f8ff;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  width: 300px;
+  margin: 20px auto;
+}
+
+/* 6-misol  */
+.cities {
+  list-style: none;
+}
+
+/* 7-misol  */
+.season-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.color-box {
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+
+/* 8-misol  */
+.simple-menu ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.simple-menu li {
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: all  0.3s ease-in-out;
+}
+
+.simple-menu li:hover {
+  background-color: #ddd;
+  border-radius: 5px;
+}
