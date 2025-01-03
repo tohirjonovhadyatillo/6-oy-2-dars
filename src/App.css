@@ -28,7 +28,7 @@
   border-radius: 10px;
   font-size: 20px;
   width: 300px;
-  margin: 20px auto;
+  margin: 20px;
 }
 
 /* 6-misol  */
@@ -55,6 +55,7 @@
   padding: 0;
   display: flex;
   gap: 15px;
+  align-items: center;
 }
 
 .simple-menu li {
